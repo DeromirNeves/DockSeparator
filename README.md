@@ -11,3 +11,7 @@ Open this project with XCode 8+. Then follow the steps:
 
 When you open the exported directory, you'll find the application.
 Now you can make as many copies of this application as you wish.
+
+## Screenshot
+
+![image](img/screenshot.png)
