@@ -12,7 +12,7 @@ import Cocoa
 class AppDelegate: NSObject, NSApplicationDelegate {
     
     func applicationWillFinishLaunching(_ notification: Notification) {
-        NSApplication.shared().windows.last!.close()
+        NSApplication.shared.windows.last!.close()
     }
     
     func applicationDidFinishLaunching(_ aNotification: Notification) {
