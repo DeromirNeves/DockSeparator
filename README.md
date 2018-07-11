@@ -2,7 +2,7 @@
 MacOS application to add a vertical bar to Dock similar to the default one.
 
 ## How to use
-Open this project with XCode 8+. Then follow the steps:
+Open this project with XCode 9+. Then follow the steps:
 
 - "Product" > "Archive"
 - Click on the archived application, then select "Export"
