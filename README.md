@@ -1,9 +1,10 @@
 # VerticalBar
-MacOS application to add a vertical bar to Dock similar to the default one.
+MacOS application to add a vertical or horizontal bar to Dock similar to the default one.
 
 ## How to use
 Open this project with XCode 9+. Then follow the steps:
 
+- Select desired app version - Vertical, LeftBar or RightBar for Dock being at bottom, left or right sides of the screen
 - "Product" > "Archive"
 - Click on the archived application, then select the blue "Distribute App" button on right
 - Choose "Copy App"
