@@ -64,7 +64,7 @@
 		832034D51EACFB8500F7D363 = {
 			isa = PBXGroup;
 			children = (
-				832034E01EACFB8500F7D363 /* VerticalBar */,
+				832034E01EACFB8500F7D363 /* DockSeparator */,
 				832034DF1EACFB8500F7D363 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -79,7 +79,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		832034E01EACFB8500F7D363 /* VerticalBar */ = {
+		832034E01EACFB8500F7D363 /* DockSeparator */ = {
 			isa = PBXGroup;
 			children = (
 				832034E11EACFB8500F7D363 /* AppDelegate.swift */,
@@ -92,7 +92,7 @@
 				1F97C99E23B09EC300724827 /* LeftBar-Info.plist */,
 				1F97C9AB23B09ED100724827 /* RightBar-Info.plist */,
 			);
-			path = VerticalBar;
+			path = DockSeparator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -166,7 +166,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 832034D91EACFB8500F7D363 /* Build configuration list for PBXProject "VerticalBar" */;
+			buildConfigurationList = 832034D91EACFB8500F7D363 /* Build configuration list for PBXProject "DockSeparator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -479,7 +479,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		832034D91EACFB8500F7D363 /* Build configuration list for PBXProject "VerticalBar" */ = {
+		832034D91EACFB8500F7D363 /* Build configuration list for PBXProject "DockSeparator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				832034EB1EACFB8500F7D363 /* Debug */,

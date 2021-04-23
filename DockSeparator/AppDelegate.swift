@@ -16,8 +16,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
     
     func applicationDidFinishLaunching(_ aNotification: Notification) {
-        NSApplication.shared.terminate(self)
+        DispatchQueue.main.asyncAfter(deadline: .now() + 10.0) { NSApplication.shared.terminate(self)
+        }
     }
 }
-
 

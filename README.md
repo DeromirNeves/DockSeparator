@@ -1,5 +1,5 @@
-# VerticalBar
-MacOS application to add a vertical or horizontal bar to Dock similar to the default one.
+# macOS Dock Separator
+macOS application to add a vertical or horizontal bar to Dock similar to the default one.
 
 ## How to use
 Open this project with XCode 9+. Then follow the steps:

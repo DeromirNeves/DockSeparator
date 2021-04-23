@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1F97C99223B09EC300724827"
-               BuildableName = "LeftBar.app"
-               BlueprintName = "LeftBar"
-               ReferencedContainer = "container:VerticalBar.xcodeproj">
+               BlueprintIdentifier = "832034DD1EACFB8500F7D363"
+               BuildableName = "VerticalBar.app"
+               BlueprintName = "VerticalBar"
+               ReferencedContainer = "container:DockSeparator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,10 +44,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1F97C99223B09EC300724827"
-            BuildableName = "LeftBar.app"
-            BlueprintName = "LeftBar"
-            ReferencedContainer = "container:VerticalBar.xcodeproj">
+            BlueprintIdentifier = "832034DD1EACFB8500F7D363"
+            BuildableName = "VerticalBar.app"
+            BlueprintName = "VerticalBar"
+            ReferencedContainer = "container:DockSeparator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,10 +61,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1F97C99223B09EC300724827"
-            BuildableName = "LeftBar.app"
-            BlueprintName = "LeftBar"
-            ReferencedContainer = "container:VerticalBar.xcodeproj">
+            BlueprintIdentifier = "832034DD1EACFB8500F7D363"
+            BuildableName = "VerticalBar.app"
+            BlueprintName = "VerticalBar"
+            ReferencedContainer = "container:DockSeparator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

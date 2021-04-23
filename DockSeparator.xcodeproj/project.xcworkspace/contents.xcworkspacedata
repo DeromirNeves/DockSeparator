@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:VerticalBar.xcodeproj">
+      location = "self:/Users/deromir/Desktop/DockSeparator/DockSeparator.xcodeproj">
    </FileRef>
 </Workspace>

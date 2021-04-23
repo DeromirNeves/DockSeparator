@@ -17,7 +17,7 @@
                BlueprintIdentifier = "1F97C99F23B09ED100724827"
                BuildableName = "RightBar.app"
                BlueprintName = "RightBar"
-               ReferencedContainer = "container:VerticalBar.xcodeproj">
+               ReferencedContainer = "container:DockSeparator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,7 +47,7 @@
             BlueprintIdentifier = "1F97C99F23B09ED100724827"
             BuildableName = "RightBar.app"
             BlueprintName = "RightBar"
-            ReferencedContainer = "container:VerticalBar.xcodeproj">
+            ReferencedContainer = "container:DockSeparator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -64,7 +64,7 @@
             BlueprintIdentifier = "1F97C99F23B09ED100724827"
             BuildableName = "RightBar.app"
             BlueprintName = "RightBar"
-            ReferencedContainer = "container:VerticalBar.xcodeproj">
+            ReferencedContainer = "container:DockSeparator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
