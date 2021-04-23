@@ -11,7 +11,7 @@ Open this project with XCode 9+. Then follow the steps:
 - Select the desired local directory
 
 When you open the exported directory, you'll find the application.
-Now you can make as many copies of this application as you wish.
+Now you can make as many copies of this application as you wish. After opening one of such applications it will close itself after 10s, enough time to select "Keep in Dock" option.
 
 ## Screenshot
 
